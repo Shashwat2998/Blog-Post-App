@@ -1,0 +1,13 @@
+.blogs {
+	margin-top: 40px;
+	text-align: center;
+    color: rgb(12, 6, 6);
+}
+
+.fa-plus {
+	font-size: 14px !important;
+}
+
+.blogs > a {
+	text-decoration: none;
+}

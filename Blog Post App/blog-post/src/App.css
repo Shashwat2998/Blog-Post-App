@@ -1,0 +1,23 @@
+.app {
+    display:grid;
+    grid-auto-flow: column;
+    grid-column-gap: 10px;
+}
+
+.active-like{
+    background-color: skyblue;
+}
+
+.active-dislike{
+    background-color: rgb(192, 72, 96);
+}
+
+.button{
+    border-radius: 2px;
+    font-size: 8px;
+    color: black;
+    padding: 12px;
+    text-align: centre;
+    overflow: hidden;
+    cursor: pointer;
+}
